@@ -1,0 +1,8 @@
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/MyWebAuthnSetup.java
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/UserResource.java
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/AdminResource.java
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/WebAuthnCertificate.java
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/LoginResource.java
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/PublicResource.java
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/WebAuthnCredential.java
+/Users/enricoconte/code/quarkus/quarkus-quickstarts/security-webauthn-quickstart/src/main/java/org/acme/security/webauthn/User.java

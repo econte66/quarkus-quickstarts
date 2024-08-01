@@ -1,0 +1,6 @@
+org/acme/security/webauthn/test/WebAuthnResourceTest.class
+META-INF/panache-archive.marker
+org/acme/security/webauthn/test/WebAuthnResourceTest$Endpoint.class
+org/acme/security/webauthn/test/NativeWebAuthnResourceIT.class
+org/acme/security/webauthn/test/WebAuthnResourceTest$User.class
+org/acme/security/webauthn/test/RenardeCookieFilter.class

@@ -16,6 +16,7 @@
         <module>amazon-sns-quickstart</module>
         <module>amazon-sqs-quickstart</module>
         <module>amazon-ssm-quickstart</module>
+        <module>amazon-sqs-connector-quickstart</module>
         <module>amqp-quickstart</module>
         <module>awt-graphics-rest-quickstart</module>
         <module>cache-quickstart</module>
@@ -30,6 +31,7 @@
         <module>getting-started-knative</module>
         <module>getting-started-testing</module>
         <module>getting-started-command-mode</module>
+        <module>getting-started-dev-services</module>
         <module>google-cloud-functions-quickstart</module>
         <module>google-cloud-functions-http-quickstart</module>
         <module>hibernate-orm-quickstart</module>
@@ -43,8 +45,10 @@
         <module>hibernate-reactive-panache-quickstart</module>
         <module>hibernate-orm-multi-tenancy-quickstart</module>
         <module>hibernate-search-orm-elasticsearch-quickstart</module>
+        <module>hibernate-search-standalone-elasticsearch-quickstart</module>
         <module>hibernate-orm-rest-data-panache-quickstart</module>
         <module>infinispan-client-quickstart</module>
+        <module>infinispan-cache-quickstart</module>
         <module>jms-quickstart</module>
         <module>kafka-quickstart</module>
         <module>kafka-avro-schema-quickstart</module>
@@ -65,19 +69,16 @@
         <module>neo4j-quickstart</module>
         -->
         <module>openapi-swaggerui-quickstart</module>
-        <module>opentracing-quickstart</module>
         <module>opentelemetry-quickstart</module>
         <module>pulsar-quickstart</module>
         <module>quartz-quickstart</module>
         <module>qute-quickstart</module>
         <module>rabbitmq-quickstart</module>
-        <module>rest-client-reactive-quickstart</module>
-        <module>reactive-routes-quickstart</module>
-        <module>reactive-messaging-http-quickstart</module>
-        <module>reactive-messaging-websockets-quickstart</module>
-        <module>redis-quickstart</module>
         <module>rest-client-quickstart</module>
-        <module>rest-client-multipart-quickstart</module>
+        <module>reactive-routes-quickstart</module>
+        <module>redis-quickstart</module>
+        <module>resteasy-client-quickstart</module>
+        <module>resteasy-client-multipart-quickstart</module>
         <module>rest-json-quickstart</module>
         <module>scheduler-quickstart</module>
         <module>security-jdbc-quickstart</module>
@@ -92,6 +93,7 @@
         <module>security-openid-connect-web-authentication-quickstart</module>
         <module>security-openid-connect-multi-tenancy-quickstart</module>
         <module>security-webauthn-quickstart</module>
+        <module>security-webauthn-reactive-quickstart</module>
         <module>software-transactional-memory-quickstart</module>
         <module>spring-di-quickstart</module>
         <module>spring-web-quickstart</module>
@@ -108,6 +110,7 @@
         <module>validation-quickstart</module>
         <module>vertx-quickstart</module>
         <module>websockets-quickstart</module>
+        <module>websockets-next-quickstart</module>
         <module>liquibase-quickstart</module>
         <module>liquibase-mongodb-quickstart</module>
         <module>mailer-quickstart</module>

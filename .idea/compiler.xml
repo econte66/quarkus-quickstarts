@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microprofile-fault-tolerance-quickstart" />
+        <module name="amazon-ses-quickstart" />
+        <module name="grpc-plain-text-quickstart" />
+        <module name="hibernate-search-orm-elasticsearch-quickstart" />
+        <module name="security-openid-connect-quickstart" />
+        <module name="amazon-sns-quickstart" />
+        <module name="scheduler-quickstart" />
+        <module name="security-oauth2-quickstart" />
+        <module name="openapi-swaggerui-quickstart" />
+        <module name="microprofile-health-quickstart" />
+        <module name="stork-quickstart" />
+        <module name="vertx-quickstart" />
+        <module name="amazon-s3-quickstart" />
+        <module name="rest-client-multipart-quickstart" />
+        <module name="amqp-quickstart-producer" />
+        <module name="hibernate-orm-rest-data-panache-quickstart" />
+        <module name="infinispan-client-quickstart" />
+        <module name="stork-dns-quickstart" />
+        <module name="kafka-panache-quickstart" />
+        <module name="kafka-avro-schema-quickstart" />
+        <module name="jms-quickstart" />
+        <module name="jta-quickstart" />
+        <module name="lifecycle-quickstart" />
+        <module name="security-ldap-quickstart" />
+        <module name="elasticsearch-quickstart" />
+        <module name="funqy-google-cloud-functions-http-quickstart" />
+        <module name="reactive-messaging-http-quickstart" />
+        <module name="config-quickstart" />
+        <module name="redis-quickstart" />
+        <module name="mailer-quickstart" />
+        <module name="hibernate-reactive-quickstart" />
+        <module name="hibernate-orm-panache-quickstart" />
+        <module name="getting-started-async" />
+        <module name="google-cloud-functions-quickstart" />
+        <module name="mqtt-quickstart" />
+        <module name="google-cloud-functions-http-quickstart" />
+        <module name="spring-data-rest-quickstart" />
+        <module name="microprofile-graphql-quickstart" />
+        <module name="spring-data-jpa-quickstart" />
+        <module name="getting-started-knative" />
+        <module name="kafka-streams-quickstart-producer" />
+        <module name="kafka-quickstart-processor" />
+        <module name="spring-di-quickstart" />
+        <module name="microprofile-metrics-quickstart" />
+        <module name="security-openid-connect-web-authentication-quickstart" />
+        <module name="amazon-ssm-quickstart" />
+        <module name="getting-started-reactive" />
+        <module name="spring-boot-properties-quickstart" />
+        <module name="kafka-panache-reactive-quickstart" />
+        <module name="funqy-google-cloud-functions-quickstart" />
+        <module name="funqy-amazon-lambda-quickstart" />
+        <module name="security-webauthn-quickstart" />
+        <module name="validation-quickstart" />
+        <module name="rabbitmq-quickstart-producer" />
+        <module name="funqy-knative-events-quickstart" />
+        <module name="rest-client-reactive-quickstart" />
+        <module name="micrometer-quickstart" />
+        <module name="rest-client-quickstart" />
+        <module name="microprofile-graphql-client-quickstart" />
+        <module name="liquibase-quickstart" />
+        <module name="funqy-http-quickstart" />
+        <module name="kafka-quickstart-producer" />
+        <module name="security-jwt-quickstart" />
+        <module name="tests-with-coverage-quickstart" />
+        <module name="hibernate-orm-quickstart" />
+        <module name="getting-started-command-mode" />
+        <module name="opentelemetry-quickstart" />
+        <module name="liquibase-mongodb-quickstart" />
+        <module name="getting-started-reactive-rest" />
+        <module name="hibernate-reactive-panache-quickstart" />
+        <module name="code-with-quarkus" />
+        <module name="spring-security-quickstart" />
+        <module name="hibernate-orm-panache-kotlin-quickstart" />
+        <module name="optaplanner-quickstart" />
+        <module name="pulsar-quickstart-processor" />
+        <module name="stork-kubernetes-quickstart" />
+        <module name="spring-scheduled-quickstart" />
+        <module name="mongodb-quickstart" />
+        <module name="hibernate-reactive-stateless-quickstart" />
+        <module name="funqy-amazon-lambda-http-quickstart" />
+        <module name="opentracing-quickstart" />
+        <module name="security-jdbc-quickstart" />
+        <module name="amqp-quickstart-processor" />
+        <module name="kafka-streams-quickstart-aggregator" />
+        <module name="mongodb-panache-quickstart" />
+        <module name="software-transactional-memory-quickstart" />
+        <module name="spring-web-quickstart" />
+        <module name="security-jpa-quickstart" />
+        <module name="cache-quickstart" />
+        <module name="security-jpa-reactive-quickstart" />
+        <module name="hibernate-reactive-routes-quickstart" />
+        <module name="amazon-dynamodb-quickstart" />
+        <module name="pulsar-quickstart-producer" />
+        <module name="qute-quickstart" />
+        <module name="rest-json-quickstart" />
+        <module name="reactive-routes-quickstart" />
+        <module name="hibernate-orm-multi-tenancy-quickstart" />
+        <module name="websockets-quickstart" />
+        <module name="context-propagation-quickstart" />
+        <module name="security-openid-connect-client-quickstart" />
+        <module name="getting-started-testing" />
+        <module name="kafka-bare-quickstart" />
+        <module name="security-openid-connect-multi-tenancy-quickstart" />
+        <module name="amazon-sqs-quickstart" />
+        <module name="security-keycloak-authorization-quickstart" />
+        <module name="getting-started" />
+        <module name="tika-quickstart" />
+        <module name="amazon-kms-quickstart" />
+        <module name="quartz-quickstart" />
+        <module name="awt-graphics-rest-quickstart" />
+        <module name="grpc-tls-quickstart" />
+        <module name="rabbitmq-quickstart-processor" />
+        <module name="reactive-messaging-websockets-quickstart" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="amqp-quickstart-processor" options="-parameters" />
+      <module name="amqp-quickstart-producer" options="-parameters" />
+      <module name="awt-graphics-rest-quickstart" options="-parameters" />
+      <module name="cache-quickstart" options="-parameters" />
+      <module name="code-with-quarkus" options="-parameters -parameters" />
+      <module name="elasticsearch-quickstart" options="-parameters" />
+      <module name="funqy-amazon-lambda-http-quickstart" options="-parameters" />
+      <module name="funqy-amazon-lambda-quickstart" options="-parameters" />
+      <module name="funqy-google-cloud-functions-http-quickstart" options="-parameters" />
+      <module name="funqy-google-cloud-functions-quickstart" options="-parameters" />
+      <module name="funqy-http-quickstart" options="-parameters" />
+      <module name="funqy-knative-events-quickstart" options="-parameters" />
+      <module name="getting-started" options="-parameters" />
+      <module name="getting-started-async" options="-parameters" />
+      <module name="getting-started-command-mode" options="-parameters" />
+      <module name="getting-started-knative" options="-parameters" />
+      <module name="getting-started-reactive" options="-parameters" />
+      <module name="getting-started-reactive-rest" options="-parameters" />
+      <module name="getting-started-testing" options="-parameters" />
+      <module name="google-cloud-functions-http-quickstart" options="-parameters" />
+      <module name="google-cloud-functions-quickstart" options="-parameters" />
+      <module name="hibernate-orm-multi-tenancy-quickstart" options="-parameters" />
+      <module name="hibernate-orm-panache-kotlin-quickstart" options="-parameters" />
+      <module name="hibernate-orm-panache-quickstart" options="-parameters" />
+      <module name="hibernate-orm-quickstart" options="-parameters" />
+      <module name="hibernate-orm-rest-data-panache-quickstart" options="-parameters" />
+      <module name="hibernate-reactive-panache-quickstart" options="-parameters" />
+      <module name="hibernate-reactive-quickstart" options="-parameters" />
+      <module name="hibernate-reactive-routes-quickstart" options="-parameters" />
+      <module name="hibernate-reactive-stateless-quickstart" options="-parameters" />
+      <module name="hibernate-search-orm-elasticsearch-quickstart" options="-parameters" />
+      <module name="jta-quickstart" options="-parameters" />
+      <module name="kafka-avro-schema-quickstart" options="-parameters" />
+      <module name="liquibase-mongodb-quickstart" options="-parameters" />
+      <module name="liquibase-quickstart" options="-parameters" />
+      <module name="mailer-quickstart" options="-parameters" />
+      <module name="micrometer-quickstart" options="-parameters" />
+      <module name="microprofile-fault-tolerance-quickstart" options="-parameters" />
+      <module name="microprofile-graphql-client-quickstart" options="-parameters" />
+      <module name="microprofile-graphql-quickstart" options="-parameters" />
+      <module name="microprofile-metrics-quickstart" options="-parameters" />
+      <module name="pulsar-quickstart-processor" options="-parameters" />
+      <module name="pulsar-quickstart-producer" options="-parameters" />
+      <module name="qute-quickstart" options="-parameters" />
+      <module name="rabbitmq-quickstart-processor" options="-parameters" />
+      <module name="rabbitmq-quickstart-producer" options="-parameters" />
+      <module name="reactive-messaging-http-quickstart" options="-parameters" />
+      <module name="reactive-messaging-websockets-quickstart" options="-parameters" />
+      <module name="redis-quickstart" options="-parameters" />
+      <module name="rest-client-multipart-quickstart" options="-parameters" />
+      <module name="rest-client-quickstart" options="-parameters" />
+      <module name="rest-client-reactive-quickstart" options="-parameters" />
+      <module name="security-jpa-quickstart" options="-parameters" />
+      <module name="security-jpa-reactive-quickstart" options="-parameters" />
+      <module name="security-webauthn-quickstart" options="-parameters" />
+      <module name="spring-boot-properties-quickstart" options="-parameters" />
+      <module name="spring-data-jpa-quickstart" options="-parameters" />
+      <module name="spring-data-rest-quickstart" options="-parameters" />
+      <module name="spring-security-quickstart" options="-parameters" />
+      <module name="validation-quickstart" options="-parameters" />
+      <module name="vertx-quickstart" options="-parameters" />
+    </option>
+  </component>
+</project>

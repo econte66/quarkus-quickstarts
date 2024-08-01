@@ -6,8 +6,8 @@ This repository contains a set of Quickstarts for the Quarkus framework. Each of
 
 To compile and run these demos you will need:
 
-- JDK 8 or 11+
-- GraalVM
+- JDK 17+
+- Mandrel or GraalVM
 
 See the [Building a Native Executable guide](https://quarkus.io/guides/building-native-image) for help setting up your environment.
 
@@ -44,6 +44,7 @@ See [CONTRIBUTING](CONTRIBUTING.md) for how to build these examples.
 * [Amazon S3](./amazon-s3-quickstart): How to connect to an Amazon S3 cloud storage
 * [Amazon SNS](./amazon-sns-quickstart): How to connect to an Amazon SNS (Simple Messaging Service)
 * [Amazon SQS](./amazon-sqs-quickstart): How to connect to an Amazon SQS (Simple Queue Service)
+* [Amazon SQS Connector](./amazon-sqs-connector-quickstart): How to connect to an Amazon SQS (Simple Queue Service) using the Reactive Messaging connector
 * [Amazon SSM](./amazon-ssm-quickstart): How to connect to Amazon SSM (Simple Systems Manager)
 * [AWT Graphics, ImageIO](./awt-graphics-rest-quickstart): How to create a service that watermarks images and draws text
 * [Hibernate Reactive Panache and RESTEasy Reactive](./hibernate-reactive-quickstart): Exposing a CRUD service over REST using Hibernate Reactive and Panache to connect to a PostgreSQL database
@@ -62,8 +63,6 @@ See [CONTRIBUTING](CONTRIBUTING.md) for how to build these examples.
 * [Kafka and Hibernate Reactive with Panache](./kafka-panache-reactive-quickstart): Shows how to combine Kafka and Hibernate Reactive with Panache
 * [Kafka Streams](./kafka-streams-quickstart): Use the Apache Kafka Streams API to implement stream processing applications based on Apache Kafka
 * [Bare Kafka](./kafka-bare-quickstart): How to use the Apache Kafka and Kafka Vert.x clients in Quarkus
-* [Kogito](./kogito-quickstart): How to use Kogito for business process automation with Drools and jBPM
-* [Kogito](./kogito-dmn-quickstart): How to use Kogito for decision automation with Drools DMN Engine
 * [Liquibase](./liquibase-quickstart): How to use Liquibase to manage you schema migrations
 * [Liquibase MongoDB](./liquibase-mongodb-quickstart): How to use Liquibase MongoDB extension to manage you MongoDB migrations
 * [Micrometer](./micrometer-quickstart): How to use Micrometer to gather metrics
@@ -79,7 +78,6 @@ See [CONTRIBUTING](CONTRIBUTING.md) for how to build these examples.
 * [Pulsar](./pulsar-quickstart):  How to interact with Apache Pulsar using MicroProfile reactive messaging
 * [OpenAPI and Swagger UI](./openapi-swaggerui-quickstart): Use OpenAPI and Swagger UI to expose your REST API and test your REST services
 * [OpenTelemetry](./opentelemetry-quickstart): How to use OpenTelemetry to monitor application performance
-* [OpenTracing and Jaeger](./opentracing-quickstart): How to use MicroProfile OpenTracing and Jaeger to monitor application performances
 * [OptaPlanner](./optaplanner-quickstart): How to use OptaPlanner to optimize business resources
 * [Quartz](./quartz-quickstart): How to schedule periodic clustered jobs
 * [Qute](./qute-quickstart): How to use the Qute templating engine in Quarkus
@@ -98,7 +96,8 @@ See [CONTRIBUTING](CONTRIBUTING.md) for how to build these examples.
 * [Security with OAuth2 opaque tokens](./security-oauth2-quickstart): How to use our security layer with OAuth2 opaque tokens
 * [Security with OpenId Connect](./security-openid-connect-quickstart): How to use OpenId Connect and [Keycloak](https://www.keycloak.org)
 * [Security with MicroProfile JWT](./security-jwt-quickstart): How to use MicroProfile JWT RBAC
-* [Security with WebAuthn](./security-webauthn-quickstart): Authenticate your users using WebAuthn
+* [Security with WebAuthn using Hibernate ORM](./security-webauthn-quickstart): Authenticate your users using WebAuthn and Hibernate ORM
+* [Security with WebAuthn using Hibernate Reactive](./security-webauthn-reactive-quickstart): Authenticate your users using WebAuthn and Hibernate Reactive
 * [Supporting Multi-Tenancy in OpenID Connect Applications](./security-openid-connect-multi-tenancy): How to use OpenId Connect and [Keycloak](https://www.keycloak.org)
 * [Spring DI compatibility layer](./spring-di-quickstart): How to use our Spring Dependency Injection compatibility layer
 * [Spring Data extension](./spring-data-jpa-quickstart): How to use the Quarkus extension for the Spring Data API

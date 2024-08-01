@@ -1,0 +1,9 @@
+org/acme/security/webauthn/PublicResource.class
+org/acme/security/webauthn/User.class
+org/acme/security/webauthn/LoginResource.class
+org/acme/security/webauthn/MyWebAuthnSetup.class
+org/acme/security/webauthn/UserResource.class
+META-INF/panache-archive.marker
+org/acme/security/webauthn/WebAuthnCertificate.class
+org/acme/security/webauthn/WebAuthnCredential.class
+org/acme/security/webauthn/AdminResource.class
